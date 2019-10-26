@@ -20,27 +20,32 @@
               <tr>
                 <td> <img src="Robocracy%20Logo.png" style="width: 500px;"> </td>
                 <td>
-                  <h2>Welcome to FTC Team 9773!</h2>
-                  <div style="background-color: rgb(198,245,54)"> We are a
-                    friend-based FIRST Tech Challenge robotics team in Northern
-                    Westchester, NY. We were founded in 2015 by FLL veterans who
-                    wanted to continue having fun in FIRST after FLL. We had a
-                    successful rookie year in the 2015-16 FIRST Res-Q season,
-                    and then made it to the World Championship in the 2016-17
-                    Velocity Vortex season. We were Hudson Valley Champions for
-                    the 2017-2018 Relic Recovery season! We had a good start
-                    this 2018-2019 Rover Ruckus, meeting the working robot in 36
-                    hour challenge, and winning the Inspire award and our robot
-                    making it to the finals at our first Red Hook FTC Qualifier!
+                  <h1>
+                    <center>Welcome to FTC Team 9773!</center>
+                  </h1>
+                  <div style="background-color: rgb(198,245,54)">
+                    &nbsp;&nbsp;&nbsp;
+                    <h3>
+                      <center>We are a friend-based FIRST Tech Challenge
+                        robotics team in Northern Westchester, NY. We were
+                        founded in 2015 by FLL veterans who wanted to continue
+                        having fun in FIRST after FLL. We had a successful
+                        rookie year in the 2015-16 FIRST Res-Q season, and then
+                        made it to the World Championship in the 2016-17
+                        Velocity Vortex season. We were Hudson Valley Champions
+                        for the 2017-2018 Relic Recovery season! We had a good
+                        start this 2018-2019 Rover Ruckus, meeting the working
+                        robot in 36 hour challenge, and winning the Inspire
+                        award and our robot making it to the finals at our first
+                        Red Hook FTC Qualifier! THIS YEARS INFO. As a team, we
+                        are much more than building a winning competitive robot.
+                        We also strive to foster STEM in our neighboring
+                        community, especially undeserved school districts, so
+                        that kids like us of all backgrounds can also enjoy the
+                        rewarding experience that FIRST and other STEM
+                        activities brings.</center>
+                    </h3>
                   </div>
-                  <div style="background-color: rgb(198,245,54)"><br>
-                  </div>
-                  <div style="background-color: rgb(198,245,54)">As a team, we
-                    are much more than building a winning competitive robot. We
-                    also strive to foster STEM in our neighboring community,
-                    especially undeserved school districts, so that kids like us
-                    of all backgrounds can also enjoy the rewarding experience
-                    that FIRST and other STEM activities brings.</div>
                 </td>
               </tr>
             </tbody>
@@ -48,10 +53,7 @@
         </b></u></div>
     <div style="background-color: rgb(198,245,54)"><br>
       <h2> What is First? What is FTC? </h2>
-      <p> FTC stands for First Tech Challenge. </p>
+      <p> Want to learn? Click <a href="https://www.firstinspires.org/">here</a></p>
     </div>
-    <p> <doctype!> </doctype!> </p>
-    <p><br>
-    </p>
   </body>
 </html>
