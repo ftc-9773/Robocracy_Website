@@ -4,16 +4,17 @@
   </head>
   <body><doctype!> </doctype!>
     <div style="text-align: justify;"><doctype!>
-        <table>
+        <table width="100%">
           <tbody align="left">
             <tr>
-              <td> <img src="Robocracy%20Logo.png" style="width: 1352px; height: 535px;">
+              <td width:="100%" bgcolor="rgb(010a54)"><br>
+                <center><img src="Robocracy%20Logo.png" style="width: 500px;"> </center>
               </td>
             </tr>
           </tbody>
         </table>
       </doctype!> </div>
-    <div style="background-color: greenyellow; font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><u><b>
+    <div style="background-color: rgb(198,245,54); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><u><b>
           <table>
             <tbody>
               <tr>
@@ -21,7 +22,7 @@
                 </td>
                 <td>
                   <h2>Welcome to FTC Team 9773!</h2>
-                  <div style="background-color: greenyellow"> We are a
+                  <div style="background-color: rgb(198,245,54)"> We are a
                     friend-based FIRST Tech Challenge robotics team in Northern
                     Westchester, NY. We were founded in 2015 by FLL veterans who
                     wanted to continue having fun in FIRST after FLL. We had a
@@ -43,15 +44,14 @@
             </tbody>
           </table>
         </b></u></div>
-    <div style="background-color: greenyellow"><br>
+    <div style="background-color: rgb(198,245,54)"><br>
       <h2> What is First? What is FTC? </h2>
     </div>
-    <div style="background-color: greenyellow; color: rgb(0, 0, 0); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+    <div style="background-color: rgb(198,245,54); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
       <p> FTC stands for First Tech Challenge. </p>
     </div>
     <p> <doctype!> </doctype!> </p>
     <p><br>
     </p>
-    
   </body>
 </html>
