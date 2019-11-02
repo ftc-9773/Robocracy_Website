@@ -56,9 +56,27 @@
         to go to First's official website<br>
       </p>
       <h1><u><b>Highlights</b></u></h1>
-      <p><a href="https://drive.google.com/file/d/1QCWUd46h-QQQcrFrrvIp7kPZ3tau-Z93/view">
-          <img src="PRINT-swerve.png" style="width: 500px;"></a><br>
-        Instructions and Files on resource page </p>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <p><a href="https://drive.google.com/file/d/1QCWUd46h-QQQcrFrrvIp7kPZ3tau-Z93/view">
+                  <img src="PRINT-swerve.png" style="width: 400px;"></a><br>
+                Instructions and Files on resource page </p>
+            </td>
+            <td>
+              <h3> We Held A World Record For A Day! </h3>
+              <p><a href="https://www.youtube.com/watch?v=_i-3NpUkT7I"> <img src="https://i.ytimg.com/vi/_3NpUkT7I/hqdefault.jpg"
+                    style="width: 400px;"></a></p>
+            </td>
+            <td>
+              <h3> 2017 - 2018 Regional Competition!</h3>
+              <p><a href="https://www.youtube.com/watch?v=_i-3NpUkT7I"> <img src="https://0c1ea19c-a-62cb3a1a-s-sites.googlegroups.com/site/ftcrobocracy9773/home/092ff884-ca99-4223-a33f-b30a3542e084%202.JPG?attachauth=ANoY7cpr25uZxh228rp_xuve8F9cNefHCHK98l7pGwaYmj9g5qgHIk849635Va-kOLOxVfAHEuw-gtn76LjGVLzWeA_vF_SZMSOQxtSZl4ymGsvrBvQbyy0MfwHr5WJ0GvH6-BRBXGNth3h-eJoZ2KtrW4nCH3KgZ1_T_6OeEgEQNTZInwrhSMuxzCuXhbUv9vFAozPL8yohqZROcWZR-pesk9CDm3TZDm_xuFjlNrPNrdQv8epN2ieUr_6JkJ4riujj1gmcFN9x9AVHPTFwtLpLTXIIw_B9Zw%3D%3D&amp;attredirects=0%20%0A%20%20%20%20%20%20%20%20style="
+                    style="width: 400px;"></a></p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </body>
 </html>
