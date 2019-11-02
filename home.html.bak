@@ -3,17 +3,17 @@
     <meta http-equiv="content-type" content="text/html; charset=windows-1252">
   </head>
   <body><doctype!> </doctype!>
-    <div style="text-align: justify;"><doctype!>
-        <table width="100%">
-          <tbody align="left">
-            <tr>
-              <td width:="100%" bgcolor="rgb(010a54)"><br>
-                <center><img src="Robocracy%20Logo.png" style="width: 500px;"> </center>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </doctype!> </div>
+    <div style="text-align: justify;">
+      <table width="100%">
+        <tbody align="left">
+          <tr>
+            <td width:="100%" bgcolor="rgb(010a54)"><br>
+              <center><img src="Robocracy%20Logo.png" style="width: 500px;"> </center>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
     <div style="background-color: rgb(198,245,54); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><u><b>
           <table>
             <tbody>
@@ -23,8 +23,7 @@
                   <h1>
                     <center>Welcome to FTC Team 9773!</center>
                   </h1>
-                  <div style="background-color: rgb(198,245,54)">
-                    &nbsp;&nbsp;&nbsp;
+                  <div style="background-color: rgb(198,245,54)"><br>
                     <h3>
                       <center>We are a friend-based FIRST Tech Challenge
                         robotics team in Northern Westchester, NY. We were
@@ -53,9 +52,13 @@
         </b></u></div>
     <div style="background-color: rgb(198,245,54)"><br>
       <h2> What is First? What is FTC? </h2>
-      <p> Want to learn? Click <a href="https://www.firstinspires.org/">here</a></p>
-      <h1><u><b>Highlights</b></u><br>
-      </h1>
+      <p> Want to learn? Click <a href="https://www.firstinspires.org/">here</a>
+        to go to First's official website<br>
+      </p>
+      <h1><u><b>Highlights</b></u></h1>
+      <p><a href="https://drive.google.com/file/d/1QCWUd46h-QQQcrFrrvIp7kPZ3tau-Z93/view">
+          <img src="PRINT-swerve.png" style="width: 500px;"></a><br>
+        Instructions and Files on resource page </p>
     </div>
   </body>
 </html>
