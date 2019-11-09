@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=windows-1252">
-    <title>Resources</title>
+    <title>Setup Git and Android Studio with ftc_app</title>
   </head>
   <body><doctype!> </doctype!>
     <div style="text-align: justify;">
@@ -15,94 +15,84 @@
         </tbody>
       </table>
     </div>
-    <div style="background-color: rgb(198,245,54); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><b>
-        <div style="background-color: rgb(198,245,54)"><br>
-        </div>
-        <table>
-          <tbody>
-            <tr>
-              <td> <a href="https://0c1ea19c-a-62cb3a1a-s-sites.googlegroups.com/site/ftcrobocracy9773/Resources/AcelExampleGraph.png?attachauth=ANoY7coDLLN7E7HD3-YxU4KnFpIIXsn9FTZJ_kqjw3D5JBHHfsz93fEhsTTRJ_d6PZJ0RI0BBcGfhCj05Bj2of8x7XLMqMc-fXbv4Lg7rP_xLaupLVKqm_7WB5WykuNTFR4gLFIGcK9DjeVC6TsKbJFnkaZPrtCWcAhVm-vK6L8u6QZowRUGrl3boq5YvBFfhS5YHiBgYnSeSsNOn7dvUt_PO1VrVZ0sIAshCexdi4mQl2qADvx61B8%3D&amp;attredirects=0">
-                  <img src="r1.png" style="width: 500px;"> </a></td>
-              <td>
-                <h1> Gear Ratio Calculator </h1>
-                <h3> We have developed an interactive physics simulation that
-                  calculates the optimal gear reduction to minimize travel time
-                  of given distances. This calculator accounts for motor torque
-                  curves, robot mass, rotational inertia, friction, battery
-                  characteristics, among other factors. It outputs an easily
-                  readable graph demonstrating the trade-off between gear
-                  reduction and travel time for several distances. The
-                  calculator is accessible on GitHub for the source code, and
-                  through MyBinder for an in-browser interface. It was created
-                  using python in Jupyter Notebook.</h3>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <h1>
-                  <center> Laptop Refurbishing</center>
-                </h1>
-              </td>
-              <td>
-                <h3> We are accepting any and all laptops to refurbish them. The
-                  laptops we are successfully able to refurbish we donate to
-                  schools in Haiti, the Dominican Republic, and India with an
-                  array of educational materials. Any left overs will be donated
-                  to underserved schools in our community. For nonworking
-                  laptops, we will re-purpose the laptop batteries into usable
-                  USB chargers. To learn more about this program, click <a href="">here</a>.</h3>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <h1>
-                  <center> Starting A New First Lego League (FLL)</center>
-                </h1>
-              </td>
-              <td>
-                <h3> We summarized some of our knowledge to help generate a new
-                  league of robotic masterminds! These children are ages 9 to 14
-                  and they are able to learn about robotics, programming and
-                  team working skills. To learn more about starting a team,
-                  click <a href="">here</a>. </h3>
-              </td>
-            </tr>
-            <tr>
-              <td> <a href="https://www.thingiverse.com/thing:2998874"><img src="Swerve.png"
-
-                    style="width:500"></a> </td>
-              <td>
-                <h1> Print Swerve for FTC </h1>
-                <h3> FTC Robocracy is proud to release our very own, competition
-                  tested swerve drive model to the public. It is designed to be
-                  made out of only 3d printed and COTS components, with no CNC
-                  machinery required. We provide here, everything you need to
-                  make your very own PRINT Swerve. This innovative swerve drive
-                  is entirely build out of 3D printed parts, and other COTS
-                  components. It uses high quality gears for unprecedented
-                  reliability. We use a novel “Tower” design where the drive
-                  motor is directly mounted on top of the drive to deliver the
-                  compact footprint needed for FTC robots. To our knowledge,
-                  this is the first 3D printable, nearly-indestructible
-                  integrated swerve drive, optimized for FTC use. <br>
-                  <br>
-                  <a href="https://www.thingiverse.com/thing:2998874">Resources</a>
-                </h3>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <h1> Help Blog </h1>
-              </td>
-              <td>
-                <h1><a href=""> A Primer on First Lego League (FLL)</a> </h1>
-                <h1><a href=""> Learning Java </a></h1>
-                <h1><a href=""> Phone not Recognized on Android Studio App</a> </h1>
-                <h1><a href=""> Set up GitHub and Android Studio with ftc_app</a> </h1>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </b></div>
+    <div style="background-color: rgb(198,245,54); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+      <div style="background-color: rgb(198,245,54)"><br>
+      </div>
+      <h1> Setup Git and Android Studio with ftc_app </h1>
+      <h2> Choices </h2>
+      <p> If you are setting up your git repository for your team and want to
+        start with downloading the code from FIRST, follow parts A and B below.
+        If a teammate has setup the team repository for you already, then follow
+        part C below. </p>
+      <h2> Part A: Download the ftc_app from FIRST and open into Android Studio
+      </h2>
+      <ol>
+        <li>Head to https://github.com/ftctechnh/ftc_app page, and hit the green
+          "clone or download" button, and select "Download ZIP"<br>
+          <img src="sgas1.png" style="width: 500px;"></li>
+        <li>Open the downloaded folder (labeled "fct_app-master") and move the
+          folder where you want it to be on your computer. We will move ours
+          under the home directory in a sub-folder named "FTC".</li>
+        <br>
+        <li>Open Android Studio. If you have never opened it before, the first
+          page will invite you to "Import Project." If you have used Android
+          studio before, click on the "File-&gt;New-&gt;Import Project". Then
+          locate your FTC/fct_app-master folder in the folder navigator and hit
+          "OK."<br>
+          <img src="sgas2.png" style="width: 500px"></li>
+      </ol>
+      <h2> Part B: Set Android Studio to use git and your own GitHub account </h2>
+      <ol>
+        <li>In Android Studio, click on the "File-&gt;Other Settings-&gt;Default
+          Settings." Select the "Git" tab in the left hand panel. Fill in the
+          "Path to Git Executable" with the proper information and verify it
+          works by clicking the "Test" button next to it.<br>
+          <img src="sgas3.png" style="width: 500px"> </li>
+        <li>In this same setting page, hit the "GitHub" tab in the left hand
+          panel and fill in your GitHub user id and password. Sign up if you
+          don't already have one. You should verify your setting by clicking the
+          Test button. You may want to use your team GitHub account, if you have
+          one. <br>
+          <img src="sgas4.png" style="width: 500px"></li>
+        <li>Apply your new settings by clicking the "Apply" button at the bottom
+          right. It will ask you to set a password; simplest is to leave it
+          blank and hit "ok".</li>
+        <br>
+        <li>In Android Studio, click the "VCS-&gt;Import Into Version
+          Control-&gt;Share Project on GitHub." Fill in your new repository
+          name, and please add your team number to the "Remote Name" field
+          (otherwise there will be confusion between the FIRST repository an the
+          one of your team). Click the "Share" button.<br>
+          <img src="sgas5.png" style="width: 500px"></li>
+        <li>Make sure that all the files are selected, add a commit message when
+          prompted, and hit OK.</li>
+        <br>
+        <li>You can now go to your GitHub account and verify that the new
+          repository was created.</li>
+      </ol>
+      <h2> Part C: Share your own Github version of the ftc_app with your
+        teammates </h2>
+      <ol>
+        <li>Go to your team's GitHub web page, typically
+          "https://github.com/your-account-name/your-repository-name", click the
+          clone or download button, and select "Download ZIP" </li>
+        <br>
+        <li>Create a directory where you want to have the code on your machine</li>
+        <br>
+        <li>Move the downloaded directory in the newly created directory</li>
+        <br>
+        <li>Open Android Studio. If you have never opened it before, the first
+          page will invite you to "Import Project." If you have used Android
+          studio before, click on the "File-&gt;New-&gt;Import Project". You
+          then locate your fct_app-master folder in the folder navigator and hit
+          "OK."</li>
+        <br>
+        <li>In the bottom right corner, an warning will pop up: "Unregistered
+          VCS root detected". Extend the message and click on "Add Root."<br>
+          <img src="sgas6.png" style="width: 500px"></li>
+        <li> If you have not already done so, perform the 3 first step Part B.</li>
+        <br>
+      </ol>
+    </div>
   </body>
 </html>
