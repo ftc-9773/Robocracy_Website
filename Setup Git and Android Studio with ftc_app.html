@@ -1,0 +1,98 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Setup Git and Android Studio with ftc_app</title>
+  </head>
+  <body><doctype!> </doctype!>
+    <div style="text-align: justify;">
+      <table width="100%">
+        <tbody align="left">
+          <tr>
+            <td width:="100%" bgcolor="rgb(010a54)"><br>
+              <center><img src="Robocracy%20Logo.png" style="width: 500px;"> </center>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div style="background-color: rgb(198,245,54); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+      <div style="background-color: rgb(198,245,54)"><br>
+      </div>
+      <h1> Setup Git and Android Studio with ftc_app </h1>
+      <h2> Choices </h2>
+      <p> If you are setting up your git repository for your team and want to
+        start with downloading the code from FIRST, follow parts A and B below.
+        If a teammate has setup the team repository for you already, then follow
+        part C below. </p>
+      <h2> Part A: Download the ftc_app from FIRST and open into Android Studio
+      </h2>
+      <ol>
+        <li>Head to https://github.com/ftctechnh/ftc_app page, and hit the green
+          "clone or download" button, and select "Download ZIP"<br>
+          <img src="sgas1.png" style="width: 500px;"></li>
+        <li>Open the downloaded folder (labeled "fct_app-master") and move the
+          folder where you want it to be on your computer. We will move ours
+          under the home directory in a sub-folder named "FTC".</li>
+        <br>
+        <li>Open Android Studio. If you have never opened it before, the first
+          page will invite you to "Import Project." If you have used Android
+          studio before, click on the "File-&gt;New-&gt;Import Project". Then
+          locate your FTC/fct_app-master folder in the folder navigator and hit
+          "OK."<br>
+          <img src="sgas2.png" style="width: 500px"></li>
+      </ol>
+      <h2> Part B: Set Android Studio to use git and your own GitHub account </h2>
+      <ol>
+        <li>In Android Studio, click on the "File-&gt;Other Settings-&gt;Default
+          Settings." Select the "Git" tab in the left hand panel. Fill in the
+          "Path to Git Executable" with the proper information and verify it
+          works by clicking the "Test" button next to it.<br>
+          <img src="sgas3.png" style="width: 500px"> </li>
+        <li>In this same setting page, hit the "GitHub" tab in the left hand
+          panel and fill in your GitHub user id and password. Sign up if you
+          don't already have one. You should verify your setting by clicking the
+          Test button. You may want to use your team GitHub account, if you have
+          one. <br>
+          <img src="sgas4.png" style="width: 500px"></li>
+        <li>Apply your new settings by clicking the "Apply" button at the bottom
+          right. It will ask you to set a password; simplest is to leave it
+          blank and hit "ok".</li>
+        <br>
+        <li>In Android Studio, click the "VCS-&gt;Import Into Version
+          Control-&gt;Share Project on GitHub." Fill in your new repository
+          name, and please add your team number to the "Remote Name" field
+          (otherwise there will be confusion between the FIRST repository an the
+          one of your team). Click the "Share" button.<br>
+          <img src="sgas5.png" style="width: 500px"></li>
+        <li>Make sure that all the files are selected, add a commit message when
+          prompted, and hit OK.</li>
+        <br>
+        <li>You can now go to your GitHub account and verify that the new
+          repository was created.</li>
+      </ol>
+      <h2> Part C: Share your own Github version of the ftc_app with your
+        teammates </h2>
+      <ol>
+        <li>Go to your team's GitHub web page, typically
+          "https://github.com/your-account-name/your-repository-name", click the
+          clone or download button, and select "Download ZIP" </li>
+        <br>
+        <li>Create a directory where you want to have the code on your machine</li>
+        <br>
+        <li>Move the downloaded directory in the newly created directory</li>
+        <br>
+        <li>Open Android Studio. If you have never opened it before, the first
+          page will invite you to "Import Project." If you have used Android
+          studio before, click on the "File-&gt;New-&gt;Import Project". You
+          then locate your fct_app-master folder in the folder navigator and hit
+          "OK."</li>
+        <br>
+        <li>In the bottom right corner, an warning will pop up: "Unregistered
+          VCS root detected". Extend the message and click on "Add Root."<br>
+          <img src="sgas6.png" style="width: 500px"></li>
+        <li> If you have not already done so, perform the 3 first step Part B.</li>
+        <br>
+      </ol>
+    </div>
+  </body>
+</html>

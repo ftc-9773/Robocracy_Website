@@ -1,0 +1,108 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Resources</title>
+  </head>
+  <body><doctype!> </doctype!>
+    <div style="text-align: justify;">
+      <table width="100%">
+        <tbody align="left">
+          <tr>
+            <td width:="100%" bgcolor="rgb(010a54)"><br>
+              <center><img src="Robocracy%20Logo.png" style="width: 500px;"> </center>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div style="background-color: rgb(198,245,54); font-family: &amp;quot;Verdana&amp;quot;,&amp;quot;Helvetica&amp;quot;,&amp;quot;Arial&amp;quot;,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"><b>
+        <div style="background-color: rgb(198,245,54)"><br>
+        </div>
+        <table>
+          <tbody>
+            <tr>
+              <td> <a href="https://0c1ea19c-a-62cb3a1a-s-sites.googlegroups.com/site/ftcrobocracy9773/Resources/AcelExampleGraph.png?attachauth=ANoY7coDLLN7E7HD3-YxU4KnFpIIXsn9FTZJ_kqjw3D5JBHHfsz93fEhsTTRJ_d6PZJ0RI0BBcGfhCj05Bj2of8x7XLMqMc-fXbv4Lg7rP_xLaupLVKqm_7WB5WykuNTFR4gLFIGcK9DjeVC6TsKbJFnkaZPrtCWcAhVm-vK6L8u6QZowRUGrl3boq5YvBFfhS5YHiBgYnSeSsNOn7dvUt_PO1VrVZ0sIAshCexdi4mQl2qADvx61B8%3D&amp;attredirects=0">
+                  <img src="r1.png" style="width: 500px;"> </a></td>
+              <td>
+                <h1> Gear Ratio Calculator </h1>
+                <h3> We have developed an interactive physics simulation that
+                  calculates the optimal gear reduction to minimize travel time
+                  of given distances. This calculator accounts for motor torque
+                  curves, robot mass, rotational inertia, friction, battery
+                  characteristics, among other factors. It outputs an easily
+                  readable graph demonstrating the trade-off between gear
+                  reduction and travel time for several distances. The
+                  calculator is accessible on GitHub for the source code, and
+                  through MyBinder for an in-browser interface. It was created
+                  using python in Jupyter Notebook.</h3>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <h1>
+                  <center> Laptop Refurbishing</center>
+                </h1>
+              </td>
+              <td>
+                <h3> We are accepting any and all laptops to refurbish them. The
+                  laptops we are successfully able to refurbish we donate to
+                  schools in Haiti, the Dominican Republic, and India with an
+                  array of educational materials. Any left overs will be donated
+                  to underserved schools in our community. For nonworking
+                  laptops, we will re-purpose the laptop batteries into usable
+                  USB chargers. To learn more about this program, click <a href="">here</a>.</h3>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <h1>
+                  <center> Starting A New First Lego League (FLL)</center>
+                </h1>
+              </td>
+              <td>
+                <h3> We summarized some of our knowledge to help generate a new
+                  league of robotic masterminds! These children are ages 9 to 14
+                  and they are able to learn about robotics, programming and
+                  team working skills. To learn more about starting a team,
+                  click <a href="">here</a>. </h3>
+              </td>
+            </tr>
+            <tr>
+              <td> <a href="https://www.thingiverse.com/thing:2998874"><img src="Swerve.png"
+
+                    style="width:500"></a> </td>
+              <td>
+                <h1> Print Swerve for FTC </h1>
+                <h3> FTC Robocracy is proud to release our very own, competition
+                  tested swerve drive model to the public. It is designed to be
+                  made out of only 3d printed and COTS components, with no CNC
+                  machinery required. We provide here, everything you need to
+                  make your very own PRINT Swerve. This innovative swerve drive
+                  is entirely build out of 3D printed parts, and other COTS
+                  components. It uses high quality gears for unprecedented
+                  reliability. We use a novel “Tower” design where the drive
+                  motor is directly mounted on top of the drive to deliver the
+                  compact footprint needed for FTC robots. To our knowledge,
+                  this is the first 3D printable, nearly-indestructible
+                  integrated swerve drive, optimized for FTC use. <br>
+                  <br>
+                  <a href="https://www.thingiverse.com/thing:2998874">Resources</a>
+                </h3>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <h1> Help Blog </h1>
+              </td>
+              <td>
+                <h1><a href=""> A Primer on First Lego League (FLL)</a> </h1>
+                <h1><a href=""> Learning Java </a></h1>
+                <h1><a href=""> Phone not Recognized on Android Studio App</a> </h1>
+                <h1><a href=""> Set up GitHub and Android Studio with ftc_app</a> </h1>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </b></div>
+  </body>
+</html>
